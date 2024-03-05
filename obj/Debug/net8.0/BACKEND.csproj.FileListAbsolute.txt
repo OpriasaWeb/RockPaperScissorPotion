@@ -1,0 +1,14 @@
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\bin\Debug\net8.0\BACKEND.exe
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\bin\Debug\net8.0\BACKEND.deps.json
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\bin\Debug\net8.0\BACKEND.runtimeconfig.json
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\bin\Debug\net8.0\BACKEND.dll
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\bin\Debug\net8.0\BACKEND.pdb
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.AssemblyInfoInputs.cache
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.AssemblyInfo.cs
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.csproj.CoreCompileInputs.cache
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.dll
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\refint\BACKEND.dll
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.pdb
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\BACKEND.genruntimeconfig.cache
+D:\JEREMY OPRIASA's files\JOB APPLICATION\WPH\28022024 -Jeremy Opriasa\BACKEND\obj\Debug\net8.0\ref\BACKEND.dll
